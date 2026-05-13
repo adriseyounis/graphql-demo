@@ -5,7 +5,7 @@ import { ruruHTML } from "ruru/server";
 
 const schema = buildSchema(`
   type Query {
-  hello: String
+    hello: String
   }
 `);
 
