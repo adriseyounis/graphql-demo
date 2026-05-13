@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/adriseyounis/graphql-demo#readme",
   "dependencies": {
-    "graphql": "^16.14.0"
+    "express": "^5.2.1",
+    "graphql": "^16.14.0",
+    "graphql-http": "^1.22.4",
+    "ruru": "^2.0.0"
   }
 }
