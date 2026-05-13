@@ -1,0 +1,24 @@
+{
+  "name": "graphql-demo",
+  "version": "1.0.0",
+  "description": "GraphQL.js tutorial demo",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriseyounis/graphql-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adriseyounis/graphql-demo/issues"
+  },
+  "homepage": "https://github.com/adriseyounis/graphql-demo#readme",
+  "dependencies": {
+    "graphql": "^16.14.0"
+  }
+}
